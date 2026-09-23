@@ -2,7 +2,7 @@
 
 웹 브라우저에서 바로 즐기는 3D 카트 레이싱 게임 (카트라이더 스타일 주행 물리 엔진 탑재).
 
-🌐 **온라인 플레이 (GitHub Pages)**: [https://gilsy02.github.io/mario-kart-3d/](https://gilsy02.github.io/mario-kart-3d/)
+🌐 **온라인 플레이 (GitHub Pages)**: [https://gilsy02.github.io/Kart-game-Antigravity/](https://gilsy02.github.io/Kart-game-Antigravity/)
 
 ---
 
